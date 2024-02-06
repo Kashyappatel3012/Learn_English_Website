@@ -1,0 +1,58 @@
+/* Apply styles to the body element */
+body {
+    font-family: 'Arial', sans-serif; /* Set font family to Arial or sans-serif if Arial is not available */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: #f4f4f4; /* Set background color to a light gray */
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+    height: 100vh; /* Set height to 100% of the viewport height */
+}
+
+/* Style for the container class */
+.container {
+    text-align: center; /* Center text horizontally within the container */
+    background-color: #fff; /* Set background color to white */
+    padding: 20px; /* Add 20px padding */
+    border-radius: 10px; /* Add rounded corners with a radius of 10px */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a card-like effect */
+}
+
+/* Style for h1 heading element */
+h1 {
+    color: #333; /* Set text color to a dark gray */
+}
+
+/* Style for input elements */
+input {
+    padding: 10px; /* Add 10px padding */
+    margin: 10px; /* Add 10px margin */
+    width: 200px; /* Set width to 200px */
+    border: 1px solid #ccc; /* Add a 1px solid border with light gray color */
+    border-radius: 5px; /* Add rounded corners with a radius of 5px */
+}
+
+/* Style for button elements */
+button {
+    padding: 10px 20px; /* Add padding to the button */
+    background-color: #3498db; /* Set background color to a shade of blue */
+    color: #fff; /* Set text color to white */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add rounded corners with a radius of 5px */
+    cursor: pointer; /* Set cursor to pointer for interactivity */
+    font-size: 16px; /* Set font size to 16px */
+}
+
+/* Hover effect for buttons */
+button:hover {
+    background-color: #2980b9; /* Change background color on hover to a slightly darker shade of blue */
+}
+
+/* Style for highscore display */
+#highscore {
+    position: absolute; /* Position the element absolutely */
+    top: 10px; /* 10px from the top */
+    right: 10px; /* 10px from the right */
+    color: #333; /* Set text color to a dark gray */
+}

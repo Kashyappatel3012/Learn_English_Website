@@ -1,0 +1,267 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+#three_line {
+    display: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+    z-index: 1;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: orange;
+    border-bottom: 1px solid orange;
+}
+
+main {
+    padding-left: 280px;
+    padding-right: 20px;
+    padding-top: 100px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.active {
+    color: orange;
+    border-bottom: 1px solid orange;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.animated-text {
+    animation: fadeIn 2.5s ease-in-out infinite;
+    color: orange;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #333;
+    /* color: white; */
+    height: 100vh;
+    position: fixed;
+    top: 60px;
+    left: 0px;
+    overflow-y: auto;
+    transition: 0.5s;
+}
+
+.sidebar h2 {
+    text-align: center;
+    color: #333;
+}
+
+.sidebar ul {
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar li {
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.main_topic {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    padding: 10px;
+    background-color: #ddd;
+    margin: 5px 0;
+}
+
+.main_topic:hover {
+    background-color: #f4c6c6;
+
+}
+
+.sidebar a {
+    display: block;
+    /* padding: 15px; */
+    /* color: white; */
+    text-decoration: none;
+}
+
+.sub_topic {
+    display: none;
+}
+
+.sub_topic li {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+#Next {
+    background-color: lightskyblue;
+    float: right;
+    padding: 5px 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+#Previous {
+    background-color: lightskyblue;
+    float: left;
+    padding: 5px 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+#Practice {
+    background-color: lightskyblue;
+    padding: 5px 15px;
+    margin: 0 auto 15px auto;
+    /* Center the button horizontally */
+    cursor: pointer;
+    display: block;
+    /* Ensures the button is a block element */
+    width: fit-content;
+    /* Adjusts the width to fit the content */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #dddddd;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #ddeeff;
+}
+
+@media (max-width: 600px) {
+
+    th,
+    td {
+        font-size: 12px;
+    }
+}
+
+.question-container {
+    margin-bottom: 20px;
+}
+
+
+.voiceButton {
+    float: right;
+    margin-right: 50vw;
+}
+
+@media only screen and (max-width: 1200px) {
+    .voiceButton {
+        float: right;
+        margin-right: 15vw;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    .voiceButton {
+        float: right;
+        margin-right: 10vw;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    main {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 80px;
+
+    }
+
+    section {
+        margin-bottom: 30px;
+    }
+
+    .active {
+        color: orange;
+        border-bottom: 1px solid orange;
+    }
+
+
+    .sidebar {
+        display: none;
+        width: 180px;
+        background-color: #333;
+        /* color: white; */
+        height: 100vh;
+        position: fixed;
+        top: 60px;
+        left: 0px;
+        overflow-y: auto;
+        transition: 0.5s;
+    }
+
+    #three_line {
+        display: block;
+    }
+}
