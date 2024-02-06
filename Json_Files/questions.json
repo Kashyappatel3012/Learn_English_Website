@@ -1,0 +1,2005 @@
+[
+    {
+        "question": "What is the difference between 'your' and 'you're'?",
+        "options": [
+            "A. 'Your' is a possessive pronoun, and 'you're' is a contraction of 'you are'",
+            "B. 'Your' is a contraction of 'you are', and 'you're' is a possessive pronoun",
+            "C. Both 'your' and 'you're' are possessive pronouns",
+            "D. Both 'your' and 'you're' are contractions of 'you are'"
+        ],
+        "answer": "A. 'Your' is a possessive pronoun, and 'you're' is a contraction of 'you are'"
+    },
+    {
+        "question": "How do you use the past perfect tense in a sentence?",
+        "options": [
+            "A. To indicate an action that happened before another action in the past",
+            "B. To describe ongoing actions in the past",
+            "C. To express future possibilities",
+            "D. To talk about general truths"
+        ],
+        "answer": "A. To indicate an action that happened before another action in the past"
+    },
+    {
+        "question": "What is the correct way to use 'fewer' and 'less'?",
+        "options": [
+            "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns",
+            "B. 'Fewer' is used with uncountable nouns, and 'less' is used with countable nouns",
+            "C. 'Fewer' and 'less' can be used interchangeably",
+            "D. 'Fewer' is used with singular nouns, and 'less' is used with plural nouns"
+        ],
+        "answer": "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns"
+    },
+    {
+        "question": "What is the correct plural form of 'child'?",
+        "options": [
+            "A. Childs",
+            "B. Childrens",
+            "C. Childs'",
+            "D. Children"
+        ],
+        "answer": "D. Children"
+    },
+    {
+        "question": "When do we use the definite article 'the'?",
+        "options": [
+            "A. Before a vowel sound",
+            "B. Before a consonant sound",
+            "C. Before proper nouns",
+            "D. Before both countable and uncountable nouns"
+        ],
+        "answer": "B. Before a consonant sound"
+    },
+    {
+        "question": "What is a synonym for 'eloquent'?",
+        "options": [
+            "A. Incoherent",
+            "B. Articulate",
+            "C. Mute",
+            "D. Rambling"
+        ],
+        "answer": "B. Articulate"
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "A. He don't like pizza.",
+            "B. She hasn't went to the store.",
+            "C. They're going to the beach tomorrow.",
+            "D. I can't hardly wait for the weekend."
+        ],
+        "answer": "C. They're going to the beach tomorrow."
+    },
+    {
+        "question": "What is the correct form of the verb in this sentence: 'She _____ to the store yesterday'?",
+        "options": [
+            "A. go",
+            "B. goes",
+            "C. going",
+            "D. went"
+        ],
+        "answer": "D. went"
+    },
+    {
+        "question": "How do you use 'affect' and 'effect' correctly?",
+        "options": [
+            "A. 'Affect' is a verb, and 'effect' is a noun",
+            "B. 'Affect' is a noun, and 'effect' is a verb",
+            "C. Both 'affect' and 'effect' are verbs",
+            "D. Both 'affect' and 'effect' are nouns"
+        ],
+        "answer": "A. 'Affect' is a verb, and 'effect' is a noun"
+    },
+    {
+        "question": "What is the meaning of the idiom 'break a leg'?",
+        "options": [
+            "A. To actually break a leg",
+            "B. To wish someone good luck",
+            "C. To dance gracefully",
+            "D. To have a strong work ethic"
+        ],
+        "answer": "B. To wish someone good luck"
+    },
+    {
+        "question": "Which sentence is written in the passive voice?",
+        "options": [
+            "A. The cat chased the mouse.",
+            "B. The mouse was chased by the cat.",
+            "C. John eats pizza every Friday.",
+            "D. She will finish the project tomorrow."
+        ],
+        "answer": "B. The mouse was chased by the cat."
+    },
+    {
+        "question": "What is the correct plural form of 'cactus'?",
+        "options": [
+            "A. Cactuses",
+            "B. Cacti",
+            "C. Cactus",
+            "D. Cactuss"
+        ],
+        "answer": "B. Cacti"
+    },
+    {
+        "question": "How do you correctly use 'its' and 'it's'?",
+        "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "C. 'Its' and 'it's' can be used interchangeably",
+            "D. 'Its' and 'it's' both indicate possession"
+        ],
+        "answer": "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'"
+    },
+    {
+        "question": "What is the meaning of the phrase 'bite the bullet'?",
+        "options": [
+            "A. To literally bite a bullet",
+            "B. To face a difficult situation with courage",
+            "C. To avoid a challenging task",
+            "D. To enjoy a delicious meal"
+        ],
+        "answer": "B. To face a difficult situation with courage"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A. Me and him went to the store.",
+            "B. Him and me went to the store.",
+            "C. He and I went to the store.",
+            "D. I and he went to the store."
+        ],
+        "answer": "C. He and I went to the store."
+    },
+    {
+        "question": "What is the correct usage of 'accept' and 'except'?",
+        "options": [
+            "A. 'Accept' is used to indicate an exclusion, and 'except' is used to receive something",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion",
+            "D. 'Accept' is used for negative situations, and 'except' is used for positive situations"
+        ],
+        "answer": "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion"
+    },
+    {
+        "question": "What is the correct superlative form of 'good'?",
+        "options": [
+            "A. Better",
+            "B. Best",
+            "C. Goodest",
+            "D. More good"
+        ],
+        "answer": "B. Best"
+    },
+    {
+        "question": "Which word is a synonym for 'ubiquitous'?",
+        "options": [
+            "A. Rare",
+            "B. Abundant",
+            "C. Unique",
+            "D. Scarce"
+        ],
+        "answer": "B. Abundant"
+    },
+    {
+        "question": "What is the correct way to use 'a' and 'an'?",
+        "options": [
+            "A. 'A' is used before words starting with a vowel sound, and 'an' is used before words starting with a consonant sound",
+            "B. 'A' is used before words starting with a consonant sound, and 'an' is used before words starting with a vowel sound",
+            "C. 'A' and 'an' can be used interchangeably",
+            "D. 'A' and 'an' are only used in specific contexts"
+        ],
+        "answer": "B. 'A' is used before words starting with a consonant sound, and 'an' is used before words starting with a vowel sound"
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "A. Between you and I, the project is not going well.",
+            "B. Between you and me, the project is not going well.",
+            "C. Amongst him and her, there is a disagreement.",
+            "D. Amongst he and she, there is a disagreement."
+        ],
+        "answer": "B. Between you and me, the project is not going well."
+    },
+    {
+        "question": "What is the correct past tense of 'sing'?",
+        "options": [
+            "A. Singed",
+            "B. Sanged",
+            "C. Sang",
+            "D. Sung"
+        ],
+        "answer": "C. Sang"
+    },
+    {
+        "question": "Which sentence uses the correct preposition?",
+        "options": [
+            "A. She is good in math.",
+            "B. She is good at math.",
+            "C. She is good on math.",
+            "D. She is good for math."
+        ],
+        "answer": "B. She is good at math."
+    },
+    {
+        "question": "What is the correct comparative form of 'beautiful'?",
+        "options": [
+            "A. More beautiful",
+            "B. Beautifuler",
+            "C. Most beautiful",
+            "D. Beautiful"
+        ],
+        "answer": "A. More beautiful"
+    },
+    {
+        "question": "Choose the correct usage of 'lie' and 'lay':",
+        "options": [
+            "A. He lays down for a nap every day.",
+            "B. She lies the book on the table.",
+            "C. He lies down for a nap every day.",
+            "D. She lays on the beach all day."
+        ],
+        "answer": "C. He lies down for a nap every day."
+    },
+    {
+        "question": "What is the correct plural form of 'knife'?",
+        "options": [
+            "A. Knifes",
+            "B. Knive",
+            "C. Knives",
+            "D. Knive's"
+        ],
+        "answer": "C. Knives"
+    },
+    {
+        "question": "What is the meaning of the phrase 'kick the bucket'?",
+        "options": [
+            "A. Literally kicking a bucket",
+            "B. Finishing a difficult task",
+            "C. Passing away or dying",
+            "D. Participating in a sports event"
+        ],
+        "answer": "C. Passing away or dying"
+    },
+    {
+        "question": "How do you use 'who' and 'whom' correctly?",
+        "options": [
+            "A. 'Who' is used as the object of a sentence, and 'whom' is used as the subject",
+            "B. 'Who' is used in formal contexts, and 'whom' is used in informal contexts",
+            "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object",
+            "D. 'Who' and 'whom' can be used interchangeably"
+        ],
+        "answer": "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object"
+    },
+    {
+        "question": "Which sentence is written in the active voice?",
+        "options": [
+            "A. The cake was baked by Mary.",
+            "B. The car was driven by him.",
+            "C. Mary baked the cake.",
+            "D. The book was read by her."
+        ],
+        "answer": "C. Mary baked the cake."
+    },
+    {
+        "question": "What is the correct way to use 'farther' and 'further'?",
+        "options": [
+            "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance",
+            "B. 'Farther' and 'further' can be used interchangeably",
+            "C. 'Farther' is used for metaphorical distance, and 'further' is used for physical distance",
+            "D. 'Farther' and 'further' both indicate physical distance"
+        ],
+        "answer": "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance"
+    },
+    {
+        "question": "What is the correct past tense of 'teach'?",
+        "options": [
+            "A. Teach",
+            "B. Taught",
+            "C. Teachs",
+            "D. Teached"
+        ],
+        "answer": "B. Taught"
+    },
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A. She is allergic to cats.",
+            "B. She is allergic with cats.",
+            "C. She is allergic by cats.",
+            "D. She is allergic from cats."
+        ],
+        "answer": "A. She is allergic to cats."
+    },
+    {
+        "question": "What is the correct way to use 'fewer' and 'less'?",
+        "options": [
+            "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns",
+            "B. 'Fewer' is used with uncountable nouns, and 'less' is used with countable nouns",
+            "C. 'Fewer' and 'less' can be used interchangeably",
+            "D. 'Fewer' is used with singular nouns, and 'less' is used with plural nouns"
+        ],
+        "answer": "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns"
+    },
+    {
+        "question": "What is the correct past tense of 'swim'?",
+        "options": [
+            "A. Swam",
+            "B. Swimmed",
+            "C. Swum",
+            "D. Swimming"
+        ],
+        "answer": "A. Swam"
+    },
+    {
+        "question": "Which word is an antonym for 'benevolent'?",
+        "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+        ],
+        "answer": "A. Malevolent"
+    },
+    {
+        "question": "What is the correct usage of 'it's' and 'its'?",
+        "options": [
+            "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+            "B. 'It's' and 'its' can be used interchangeably",
+            "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+            "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+        ],
+        "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+    },
+    {
+        "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+        "options": [
+            "A. Go",
+            "B. Going",
+            "C. Gone",
+            "D. Went"
+        ],
+        "answer": "D. Went"
+    },
+    {
+        "question": "How do you use 'who' and 'whom' correctly?",
+        "options": [
+            "A. 'Who' is used as the object of a sentence, and 'whom' is used as the subject",
+            "B. 'Who' is used in formal contexts, and 'whom' is used in informal contexts",
+            "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object",
+            "D. 'Who' and 'whom' can be used interchangeably"
+        ],
+        "answer": "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object"
+    },
+    {
+        "question": "What is the correct way to use 'its' and 'it's'?",
+        "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "C. 'Its' and 'it's' can be used interchangeably",
+            "D. 'Its' and 'it's' both indicate possession"
+        ],
+        "answer": "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'"
+    },
+    {
+        "question": "What is the correct usage of 'accept' and 'except'?",
+        "options": [
+            "A. 'Accept' is used to indicate an exclusion, and 'except' is used to receive something",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion",
+            "D. 'Accept' is used for negative situations, and 'except' is used for positive situations"
+        ],
+        "answer": "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion"
+    },
+
+    {
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A. Me and him went to the store.",
+            "B. Him and me went to the store.",
+            "C. He and I went to the store.",
+            "D. I and he went to the store."
+        ],
+        "answer": "C. He and I went to the store."
+    },
+    {
+        "question": "What is the correct usage of 'accept' and 'except'?",
+        "options": [
+            "A. 'Accept' is used to indicate an exclusion, and 'except' is used to receive something",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion",
+            "D. 'Accept' is used for negative situations, and 'except' is used for positive situations"
+        ],
+        "answer": "A. 'Accept' is used to indicate an exclusion, and 'except' is used to receive something"
+    },
+    {
+        "question": "What is the correct superlative form of 'good'?",
+        "options": [
+            "A. Better",
+            "B. Best",
+            "C. Goodest",
+            "D. More good"
+        ],
+        "answer": "B. Best"
+    },
+    {
+        "question": "Which word is a synonym for 'ubiquitous'?",
+        "options": [
+            "A. Rare",
+            "B. Abundant",
+            "C. Unique",
+            "D. Scarce"
+        ],
+        "answer": "B. Abundant"
+    },
+    {
+        "question": "What is the correct way to use 'a' and 'an'?",
+        "options": [
+            "A. 'A' is used before words starting with a vowel sound, and 'an' is used before words starting with a consonant sound",
+            "B. 'A' is used before words starting with a consonant sound, and 'an' is used before words starting with a vowel sound",
+            "C. 'A' and 'an' can be used interchangeably",
+            "D. 'A' and 'an' are only used in specific contexts"
+        ],
+        "answer": "A. 'A' is used before words starting with a vowel sound, and 'an' is used before words starting with a consonant sound"
+    },
+    {
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+            "A. Between you and I, the project is not going well.",
+            "B. Between you and me, the project is not going well.",
+            "C. Amongst him and her, there is a disagreement.",
+            "D. Amongst he and she, there is a disagreement."
+        ],
+        "answer": "B. Between you and me, the project is not going well."
+    },
+    {
+        "question": "What is the correct past tense of 'sing'?",
+        "options": [
+            "A. Singed",
+            "B. Sanged",
+            "C. Sang",
+            "D. Sung"
+        ],
+        "answer": "C. Sang"
+    },
+    {
+        "question": "Which sentence uses the correct preposition?",
+        "options": [
+            "A. She is good in math.",
+            "B. She is good at math.",
+            "C. She is good on math.",
+            "D. She is good for math."
+        ],
+        "answer": "B. She is good at math."
+    },
+    {
+        "question": "What is the correct comparative form of 'beautiful'?",
+        "options": [
+            "A. More beautiful",
+            "B. Beautifuler",
+            "C. Most beautiful",
+            "D. Beautiful"
+        ],
+        "answer": "A. More beautiful"
+    },
+    {
+        "question": "Choose the correct usage of 'lie' and 'lay':",
+        "options": [
+            "A. He lays down for a nap every day.",
+            "B. She lies the book on the table.",
+            "C. He lies down for a nap every day.",
+            "D. She lays on the beach all day."
+        ],
+        "answer": "C. He lies down for a nap every day."
+    },
+    {
+        "question": "What is the correct plural form of 'knife'?",
+        "options": [
+            "A. Knifes",
+            "B. Knive",
+            "C. Knives",
+            "D. Knive's"
+        ],
+        "answer": "C. Knives"
+    },
+    {
+        "question": "What is the meaning of the phrase 'kick the bucket'?",
+        "options": [
+            "A. Literally kicking a bucket",
+            "B. Finishing a difficult task",
+            "C. Passing away or dying",
+            "D. Participating in a sports event"
+        ],
+        "answer": "C. Passing away or dying"
+    },
+    {
+        "question": "How do you use 'who' and 'whom' correctly?",
+        "options": [
+            "A. 'Who' is used as the object of a sentence, and 'whom' is used as the subject",
+            "B. 'Who' is used in formal contexts, and 'whom' is used in informal contexts",
+            "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object",
+            "D. 'Who' and 'whom' can be used interchangeably"
+        ],
+        "answer": "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object"
+    },
+    {
+        "question": "Which sentence is written in the active voice?",
+        "options": [
+            "A. The cake was baked by Mary.",
+            "B. The car was driven by him.",
+            "C. Mary baked the cake.",
+            "D. The book was read by her."
+        ],
+        "answer": "C. Mary baked the cake."
+    },
+    {
+        "question": "What is the correct way to use 'farther' and 'further'?",
+        "options": [
+            "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance",
+            "B. 'Farther' is used for metaphorical distance, and 'further' is used for physical distance",
+            "C. 'Farther' and 'further' can be used interchangeably",
+            "D. 'Farther' is used for time, and 'further' is used for space"
+        ],
+        "answer": "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance"
+    },
+    {
+        "question": "What is the correct way to use 'fewer' and 'less'?",
+        "options": [
+            "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns",
+            "B. 'Fewer' is used with uncountable nouns, and 'less' is used with countable nouns",
+            "C. 'Fewer' and 'less' can be used interchangeably",
+            "D. 'Fewer' is used with singular nouns, and 'less' is used with plural nouns"
+        ],
+        "answer": "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns"
+    },
+    {
+        "question": "What is the correct past tense of 'swim'?",
+        "options": [
+            "A. Swam",
+            "B. Swimmed",
+            "C. Swum",
+            "D. Swimming"
+        ],
+        "answer": "A. Swam"
+    },
+    {
+        "question": "Which word is an antonym for 'benevolent'?",
+        "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+        ],
+        "answer": "A. Malevolent"
+    },
+    {
+        "question": "What is the correct usage of 'it's' and 'its'?",
+        "options": [
+            "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+            "B. 'It's' and 'its' can be used interchangeably",
+            "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+            "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+        ],
+        "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+    },
+    {
+        "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+        "options": [
+            "A. Go",
+            "B. Going",
+            "C. Gone",
+            "D. Went"
+        ],
+        "answer": "D. Went"
+    },
+    {
+        "question": "How do you use 'who' and 'whom' correctly?",
+        "options": [
+            "A. 'Who' is used as the object of a sentence, and 'whom' is used as the subject",
+            "B. 'Who' is used in formal contexts, and 'whom' is used in informal contexts",
+            "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object",
+            "D. 'Who' and 'whom' can be used interchangeably"
+        ],
+        "answer": "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object"
+    },
+    {
+        "question": "What is the correct way to use 'its' and 'it's'?",
+        "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "C. 'Its' and 'it's' can be used interchangeably",
+            "D. 'Its' and 'it's' both indicate possession"
+        ],
+        "answer": "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'"
+    },
+    {
+        "question": "What is the correct usage of 'accept' and 'except'?",
+        "options": [
+            "A. 'Accept' is used to indicate an exclusion, and 'except' is used to receive something",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion",
+            "D. 'Accept' is used for negative situations, and 'except' is used for positive situations"
+        ],
+        "answer": "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion"
+    },
+    {
+        "question": "What is the correct way to use 'farther' and 'further'?",
+        "options": [
+            "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance",
+            "B. 'Farther' is used for metaphorical distance, and 'further' is used for physical distance",
+            "C. 'Farther' and 'further' can be used interchangeably",
+            "D. 'Farther' is used for time, and 'further' is used for space"
+        ],
+        "answer": "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance"
+    },
+    {
+        "question": "What is the correct way to use 'fewer' and 'less'?",
+        "options": [
+            "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns",
+            "B. 'Fewer' is used with uncountable nouns, and 'less' is used with countable nouns",
+            "C. 'Fewer' and 'less' can be used interchangeably",
+            "D. 'Fewer' is used with singular nouns, and 'less' is used with plural nouns"
+        ],
+        "answer": "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns"
+    },
+    {
+        "question": "What is the correct past tense of 'swim'?",
+        "options": [
+            "A. Swam",
+            "B. Swimmed",
+            "C. Swum",
+            "D. Swimming"
+        ],
+        "answer": "A. Swam"
+    },
+    {
+        "question": "Which word is an antonym for 'benevolent'?",
+        "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+        ],
+        "answer": "A. Malevolent"
+    },
+    {
+        "question": "What is the correct usage of 'it's' and 'its'?",
+        "options": [
+            "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+            "B. 'It's' and 'its' can be used interchangeably",
+            "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+            "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+        ],
+        "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+    },
+    {
+        "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+        "options": [
+            "A. Go",
+            "B. Going",
+            "C. Gone",
+            "D. Went"
+        ],
+        "answer": "D. Went"
+    },
+    {
+        "question": "How do you use 'who' and 'whom' correctly?",
+        "options": [
+            "A. 'Who' is used as the object of a sentence, and 'whom' is used as the subject",
+            "B. 'Who' is used in formal contexts, and 'whom' is used in informal contexts",
+            "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object",
+            "D. 'Who' and 'whom' can be used interchangeably"
+        ],
+        "answer": "C. 'Who' is used as the subject of a sentence, and 'whom' is used as the object"
+    },
+    {
+        "question": "What is the correct way to use 'its' and 'it's'?",
+        "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "C. 'Its' and 'it's' can be used interchangeably",
+            "D. 'Its' and 'it's' both indicate possession"
+        ],
+        "answer": "B. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'"
+    },
+    {
+        "question": "What is the correct usage of 'accept' and 'except'?",
+        "options": [
+            "A. 'Accept' is used to indicate an exclusion, and 'except' is used to receive something",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion",
+            "D. 'Accept' is used for negative situations, and 'except' is used for positive situations"
+        ],
+        "answer": "C. 'Accept' is used to receive something, and 'except' is used to indicate an exclusion"
+    },
+    {
+        "question": "What is the correct way to use 'farther' and 'further'?",
+        "options": [
+            "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance",
+            "B. 'Farther' is used for metaphorical distance, and 'further' is used for physical distance",
+            "C. 'Farther' and 'further' can be used interchangeably",
+            "D. 'Farther' is used for time, and 'further' is used for space"
+        ],
+        "answer": "A. 'Farther' is used for physical distance, and 'further' is used for metaphorical distance"
+    },
+    {
+        "question": "What is the correct way to use 'fewer' and 'less'?",
+        "options": [
+            "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns",
+            "B. 'Fewer' is used with uncountable nouns, and 'less' is used with countable nouns",
+            "C. 'Fewer' and 'less' can be used interchangeably",
+            "D. 'Fewer' is used with singular nouns, and 'less' is used with plural nouns"
+        ],
+        "answer": "A. 'Fewer' is used with countable nouns, and 'less' is used with uncountable nouns"
+    },
+    {
+        "question": "What is the correct past tense of 'swim'?",
+        "options": [
+            "A. Swam",
+            "B. Swimmed",
+            "C. Swum",
+            "D. Swimming"
+        ],
+        "answer": "A. Swam"
+    },
+    {
+        "question": "Which word is an antonym for 'benevolent'?",
+        "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+        ],
+        "answer": "A. Malevolent"
+    },
+    {
+        "question": "What is the correct usage of 'it's' and 'its'?",
+        "options": [
+            "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+            "B. 'It's' and 'its' can be used interchangeably",
+            "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+            "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+        ],
+        "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+    },
+    {
+        "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+        "options": [
+            "A. Go",
+            "B. Going",
+            "C. Gone",
+            "D. Went"
+        ],
+        "answer": "D. Went"
+    },
+    
+        {
+            "question": "How do you use 'affect' and 'effect' correctly?",
+            "options": [
+                "A. 'Affect' is a noun, and 'effect' is a verb",
+                "B. 'Affect' and 'effect' can be used interchangeably",
+                "C. 'Affect' is a verb, and 'effect' is a noun",
+                "D. 'Affect' and 'effect' both indicate a positive outcome"
+            ],
+            "answer": "C. 'Affect' is a verb, and 'effect' is a noun"
+        },
+        {
+            "question": "What is the correct usage of 'your' and 'you're'?",
+            "options": [
+                "A. 'Your' is a contraction of 'you are', and 'you're' is a possessive pronoun",
+                "B. 'Your' and 'you're' can be used interchangeably",
+                "C. 'Your' is a possessive pronoun, and 'you're' is a contraction of 'you are'",
+                "D. 'Your' is used for animate objects, and 'you're' is used for inanimate objects"
+            ],
+            "answer": "C. 'Your' is a possessive pronoun, and 'you're' is a contraction of 'you are'"
+        },
+        {
+            "question": "What is the correct way to use 'their', 'there', and 'they're'?",
+            "options": [
+                "A. 'Their' is a contraction of 'there is', 'there' is a possessive pronoun, and 'they're' is used to indicate location",
+                "B. 'Their', 'there', and 'they're' can be used interchangeably",
+                "C. 'Their' is a possessive pronoun, 'there' is used to indicate location, and 'they're' is a contraction of 'they are'",
+                "D. 'Their' is used for singular possessive, 'there' is used for plural possessive, and 'they're' is used as a contraction"
+            ],
+            "answer": "C. 'Their' is a possessive pronoun, 'there' is used to indicate location, and 'they're' is a contraction of 'they are'"
+        },
+        {
+            "question": "Which word is a synonym for 'eloquent'?",
+            "options": [
+                "A. Fluent",
+                "B. Inarticulate",
+                "C. Garrulous",
+                "D. Loquacious"
+            ],
+            "answer": "A. Fluent"
+        },
+        {
+            "question": "What is the correct usage of 'imply' and 'infer'?",
+            "options": [
+                "A. 'Imply' is used by the speaker, and 'infer' is used by the listener",
+                "B. 'Imply' and 'infer' can be used interchangeably",
+                "C. 'Imply' is used to make conclusions, and 'infer' is used to suggest",
+                "D. 'Imply' and 'infer' both mean the same thing"
+            ],
+            "answer": "A. 'Imply' is used by the speaker, and 'infer' is used by the listener"
+        },
+        {
+            "question": "What is the correct way to use 'lay' and 'lie'?",
+            "options": [
+                "A. 'Lay' is used for transitive verbs, and 'lie' is used for intransitive verbs",
+                "B. 'Lay' and 'lie' can be used interchangeably",
+                "C. 'Lay' is used for intransitive verbs, and 'lie' is used for transitive verbs",
+                "D. 'Lay' and 'lie' both indicate a state of reclining"
+            ],
+            "answer": "A. 'Lay' is used for transitive verbs, and 'lie' is used for intransitive verbs"
+        },
+        {
+            "question": "What is the correct usage of 'effect' and 'affect'?",
+            "options": [
+                "A. 'Effect' is a verb, and 'affect' is a noun",
+                "B. 'Effect' and 'affect' can be used interchangeably",
+                "C. 'Effect' is a noun, and 'affect' is a verb",
+                "D. 'Effect' and 'affect' both indicate a negative outcome"
+            ],
+            "answer": "C. 'Effect' is a noun, and 'affect' is a verb"
+        },
+        {
+            "question": "What is the correct way to use 'principal' and 'principle'?",
+            "options": [
+                "A. 'Principal' is a person in a position of authority, and 'principle' is a fundamental truth",
+                "B. 'Principal' and 'principle' can be used interchangeably",
+                "C. 'Principal' is a fundamental truth, and 'principle' is a person in a position of authority",
+                "D. 'Principal' is used for general situations, and 'principle' is used for specific situations"
+            ],
+            "answer": "A. 'Principal' is a person in a position of authority, and 'principle' is a fundamental truth"
+        },
+        {
+            "question": "What is the correct usage of 'complement' and 'compliment'?",
+            "options": [
+                "A. 'Complement' is an expression of praise, and 'compliment' completes something",
+                "B. 'Complement' and 'compliment' can be used interchangeably",
+                "C. 'Complement' completes something, and 'compliment' is an expression of praise",
+                "D. 'Complement' is used for people, and 'compliment' is used for things"
+            ],
+            "answer": "C. 'Complement' completes something, and 'compliment' is an expression of praise"
+        },
+        {
+            "question": "What is the correct plural form of 'child'?",
+            "options": [
+                "A. Childs",
+                "B. Childies",
+                "C. Children",
+                "D. Childs"
+            ],
+            "answer": "C. Children"
+        },
+        {
+            "question": "Which word is a synonym for 'ephemeral'?",
+            "options": [
+                "A. Eternal",
+                "B. Transient",
+                "C. Permanent",
+                "D. Lasting"
+            ],
+            "answer": "B. Transient"
+        },
+        {
+            "question": "How do you use 'less' and 'fewer' correctly?",
+            "options": [
+                "A. 'Less' is used with countable nouns, and 'fewer' is used with uncountable nouns",
+                "B. 'Less' and 'fewer' can be used interchangeably",
+                "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns",
+                "D. 'Less' is used for singular nouns, and 'fewer' is used for plural nouns"
+            ],
+            "answer": "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns"
+        },
+        {
+            "question": "What is the correct usage of 'farther' and 'further'?",
+            "options": [
+                "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance",
+                "B. 'Farther' and 'further' can be used interchangeably",
+                "C. 'Farther' refers to metaphorical distance, and 'further' refers to physical distance",
+                "D. 'Farther' is used for vertical distance, and 'further' is used for horizontal distance"
+            ],
+            "answer": "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+            "options": [
+                "A. Eat",
+                "B. Eating",
+                "C. Eaten",
+                "D. Ate"
+            ],
+            "answer": "D. Ate"
+        },
+        {
+            "question": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "A. Malevolent",
+                "B. Compassionate",
+                "C. Altruistic",
+                "D. Kindhearted"
+            ],
+            "answer": "A. Malevolent"
+        },
+        {
+            "question": "What is the correct usage of 'it's' and 'its'?",
+            "options": [
+                "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+                "B. 'It's' and 'its' can be used interchangeably",
+                "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+                "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+            ],
+            "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+            "options": [
+                "A. Go",
+                "B. Going",
+                "C. Gone",
+                "D. Went"
+            ],
+            "answer": "D. Went"
+        },
+        {
+            "question": "Which word is a synonym for 'ephemeral'?",
+            "options": [
+                "A. Eternal",
+                "B. Transient",
+                "C. Permanent",
+                "D. Lasting"
+            ],
+            "answer": "B. Transient"
+        },
+        {
+            "question": "How do you use 'less' and 'fewer' correctly?",
+            "options": [
+                "A. 'Less' is used with countable nouns, and 'fewer' is used with uncountable nouns",
+                "B. 'Less' and 'fewer' can be used interchangeably",
+                "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns",
+                "D. 'Less' is used for singular nouns, and 'fewer' is used for plural nouns"
+            ],
+            "answer": "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns"
+        },
+        {
+            "question": "What is the correct usage of 'farther' and 'further'?",
+            "options": [
+                "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance",
+                "B. 'Farther' and 'further' can be used interchangeably",
+                "C. 'Farther' refers to metaphorical distance, and 'further' refers to physical distance",
+                "D. 'Farther' is used for vertical distance, and 'further' is used for horizontal distance"
+            ],
+            "answer": "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+            "options": [
+                "A. Eat",
+                "B. Eating",
+                "C. Eaten",
+                "D. Ate"
+            ],
+            "answer": "D. Ate"
+        },
+        {
+            "question": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "A. Malevolent",
+                "B. Compassionate",
+                "C. Altruistic",
+                "D. Kindhearted"
+            ],
+            "answer": "A. Malevolent"
+        },
+        {
+            "question": "What is the correct usage of 'it's' and 'its'?",
+            "options": [
+                "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+                "B. 'It's' and 'its' can be used interchangeably",
+                "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+                "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+            ],
+            "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+            "options": [
+                "A. Go",
+                "B. Going",
+                "C. Gone",
+                "D. Went"
+            ],
+            "answer": "D. Went"
+        },
+        {
+            "question": "Which word is a synonym for 'ephemeral'?",
+            "options": [
+                "A. Eternal",
+                "B. Transient",
+                "C. Permanent",
+                "D. Lasting"
+            ],
+            "answer": "B. Transient"
+        },
+        {
+            "question": "How do you use 'less' and 'fewer' correctly?",
+            "options": [
+                "A. 'Less' is used with countable nouns, and 'fewer' is used with uncountable nouns",
+                "B. 'Less' and 'fewer' can be used interchangeably",
+                "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns",
+                "D. 'Less' is used for singular nouns, and 'fewer' is used for plural nouns"
+            ],
+            "answer": "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns"
+        },
+        {
+            "question": "What is the correct usage of 'farther' and 'further'?",
+            "options": [
+                "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance",
+                "B. 'Farther' and 'further' can be used interchangeably",
+                "C. 'Farther' refers to metaphorical distance, and 'further' refers to physical distance",
+                "D. 'Farther' is used for vertical distance, and 'further' is used for horizontal distance"
+            ],
+            "answer": "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+            "options": [
+                "A. Eat",
+                "B. Eating",
+                "C. Eaten",
+                "D. Ate"
+            ],
+            "answer": "D. Ate"
+        },
+        {
+            "question": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "A. Malevolent",
+                "B. Compassionate",
+                "C. Altruistic",
+                "D. Kindhearted"
+            ],
+            "answer": "A. Malevolent"
+        },
+        {
+            "question": "What is the correct usage of 'it's' and 'its'?",
+            "options": [
+                "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+                "B. 'It's' and 'its' can be used interchangeably",
+                "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+                "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+            ],
+            "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+            "options": [
+                "A. Go",
+                "B. Going",
+                "C. Gone",
+                "D. Went"
+            ],
+            "answer": "D. Went"
+        },
+        {
+            "question": "Which word is a synonym for 'ephemeral'?",
+            "options": [
+                "A. Eternal",
+                "B. Transient",
+                "C. Permanent",
+                "D. Lasting"
+            ],
+            "answer": "B. Transient"
+        },
+        {
+            "question": "How do you use 'less' and 'fewer' correctly?",
+            "options": [
+                "A. 'Less' is used with countable nouns, and 'fewer' is used with uncountable nouns",
+                "B. 'Less' and 'fewer' can be used interchangeably",
+                "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns",
+                "D. 'Less' is used for singular nouns, and 'fewer' is used for plural nouns"
+            ],
+            "answer": "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns"
+        },
+        {
+            "question": "What is the correct usage of 'farther' and 'further'?",
+            "options": [
+                "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance",
+                "B. 'Farther' and 'further' can be used interchangeably",
+                "C. 'Farther' refers to metaphorical distance, and 'further' refers to physical distance",
+                "D. 'Farther' is used for vertical distance, and 'further' is used for horizontal distance"
+            ],
+            "answer": "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+            "options": [
+                "A. Eat",
+                "B. Eating",
+                "C. Eaten",
+                "D. Ate"
+            ],
+            "answer": "D. Ate"
+        },
+        {
+            "question": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "A. Malevolent",
+                "B. Compassionate",
+                "C. Altruistic",
+                "D. Kindhearted"
+            ],
+            "answer": "A. Malevolent"
+        },
+        {
+            "question": "What is the correct usage of 'it's' and 'its'?",
+            "options": [
+                "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+                "B. 'It's' and 'its' can be used interchangeably",
+                "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+                "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+            ],
+            "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+            "options": [
+                "A. Go",
+                "B. Going",
+                "C. Gone",
+                "D. Went"
+            ],
+            "answer": "D. Went"
+        },
+        {
+            "question": "Which word is a synonym for 'ephemeral'?",
+            "options": [
+                "A. Eternal",
+                "B. Transient",
+                "C. Permanent",
+                "D. Lasting"
+            ],
+            "answer": "B. Transient"
+        },
+        {
+            "question": "How do you use 'less' and 'fewer' correctly?",
+            "options": [
+                "A. 'Less' is used with countable nouns, and 'fewer' is used with uncountable nouns",
+                "B. 'Less' and 'fewer' can be used interchangeably",
+                "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns",
+                "D. 'Less' is used for singular nouns, and 'fewer' is used for plural nouns"
+            ],
+            "answer": "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns"
+        },
+        {
+            "question": "What is the correct usage of 'farther' and 'further'?",
+            "options": [
+                "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance",
+                "B. 'Farther' and 'further' can be used interchangeably",
+                "C. 'Farther' refers to metaphorical distance, and 'further' refers to physical distance",
+                "D. 'Farther' is used for vertical distance, and 'further' is used for horizontal distance"
+            ],
+            "answer": "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+            "options": [
+                "A. Eat",
+                "B. Eating",
+                "C. Eaten",
+                "D. Ate"
+            ],
+            "answer": "D. Ate"
+        },
+        {
+            "question": "Which word is an antonym for 'benevolent'?",
+            "options": [
+                "A. Malevolent",
+                "B. Compassionate",
+                "C. Altruistic",
+                "D. Kindhearted"
+            ],
+            "answer": "A. Malevolent"
+        },
+        {
+            "question": "What is the correct usage of 'it's' and 'its'?",
+            "options": [
+                "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+                "B. 'It's' and 'its' can be used interchangeably",
+                "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+                "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+            ],
+            "answer": "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun"
+        },
+        {
+            "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+            "options": [
+                "A. Go",
+                "B. Going",
+                "C. Gone",
+                "D. Went"
+            ],
+            "answer": "D. Went"
+        },
+        {
+          "question": "In the sentence 'She plays the piano', what is the subject?",
+          "options": [
+            "A. She",
+            "B. Plays",
+            "C. Piano",
+            "D. The"
+          ],
+          "answer": "A. She"
+        },
+        {
+          "question": "What is the correct plural form of 'child'?",
+          "options": [
+            "A. Childs",
+            "B. Childes",
+            "C. Children",
+            "D. Childs'"
+          ],
+          "answer": "C. Children"
+        },
+        {
+          "question": "Which word is a synonym for 'excellent'?",
+          "options": [
+            "A. Good",
+            "B. Outstanding",
+            "C. Average",
+            "D. Poor"
+          ],
+          "answer": "B. Outstanding"
+        },
+        {
+          "question": "How do you correctly use 'effect' and 'affect'?",
+          "options": [
+            "A. 'Effect' is a noun, and 'affect' is a verb",
+            "B. 'Effect' is a verb, and 'affect' is a noun",
+            "C. 'Effect' and 'affect' can be used interchangeably",
+            "D. Both are always verbs"
+          ],
+          "answer": "A. 'Effect' is a noun, and 'affect' is a verb"
+        },
+        {
+          "question": "What is the past tense of the verb 'sing'?",
+          "options": [
+            "A. Singing",
+            "B. Sang",
+            "C. Sung",
+            "D. Sings"
+          ],
+          "answer": "B. Sang"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "A. He don't like tomatoes",
+            "B. He doesn't likes tomatoes",
+            "C. He doesn't like tomatoes",
+            "D. He not like tomatoes"
+          ],
+          "answer": "C. He doesn't like tomatoes"
+        },
+        {
+          "question": "What is the meaning of the word 'Ubiquitous'?",
+          "options": [
+            "A. Rare",
+            "B. Pervasive",
+            "C. Temporary",
+            "D. Unusual"
+          ],
+          "answer": "B. Pervasive"
+        },
+        {
+          "question": "Which of the following is a correct sentence?",
+          "options": [
+            "A. The cat and dog is sleeping",
+            "B. The cat and dog are sleeping",
+            "C. The cat and dogs is sleeping",
+            "D. The cats and dogs is sleeping"
+          ],
+          "answer": "B. The cat and dog are sleeping"
+        },
+        {
+          "question": "What is the superlative form of the adjective 'good'?",
+          "options": [
+            "A. Better",
+            "B. Best",
+            "C. Gooder",
+            "D. Goodest"
+          ],
+          "answer": "B. Best"
+        },
+        {
+          "question": "Which word is an antonym for 'vivid'?",
+          "options": [
+            "A. Colorful",
+            "B. Dull",
+            "C. Bright",
+            "D. Lively"
+          ],
+          "answer": "B. Dull"
+        },
+        {
+          "question": "What is the correct usage of 'their', 'there', and 'they're'?",
+          "options": [
+            "A. 'Their' is a possessive pronoun, 'there' indicates a place, and 'they're' is a contraction of 'they are'",
+            "B. 'Their', 'there', and 'they're' can be used interchangeably",
+            "C. 'Their' is used for singular possession, 'there' indicates a time, and 'they're' is a contraction of 'they are'",
+            "D. 'Their' is a contraction of 'they are', 'there' indicates a place, and 'they're' is a possessive pronoun"
+          ],
+          "answer": "A. 'Their' is a possessive pronoun, 'there' indicates a place, and 'they're' is a contraction of 'they are'"
+        },
+        {
+          "question": "What is the plural form of 'person'?",
+          "options": [
+            "A. Persons",
+            "B. Peoples",
+            "C. People",
+            "D. Persones"
+          ],
+          "answer": "C. People"
+        },
+        {
+          "question": "Which word is a synonym for 'ephemeral'?",
+          "options": [
+            "A. Eternal",
+            "B. Transient",
+            "C. Permanent",
+            "D. Lasting"
+          ],
+          "answer": "B. Transient"
+        },
+        {
+          "question": "What is the correct usage of 'compliment' and 'complement'?",
+          "options": [
+            "A. 'Compliment' is used to complete something, and 'complement' is an expression of praise",
+            "B. 'Compliment' and 'complement' can be used interchangeably",
+            "C. 'Compliment' is an expression of praise, and 'complement' is used to complete something",
+            "D. 'Compliment' is only used for people, and 'complement' is used for things"
+          ],
+          "answer": "C. 'Compliment' is an expression of praise, and 'complement' is used to complete something"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'They _____ to the movies last night'?",
+          "options": [
+            "A. Go",
+            "B. Going",
+            "C. Gone",
+            "D. Went"
+          ],
+          "answer": "D. Went"
+        },
+        {
+          "question": "Which word is a synonym for 'meticulous'?",
+          "options": [
+            "A. Careless",
+            "B. Thorough",
+            "C. Sloppy",
+            "D. Negligent"
+          ],
+          "answer": "B. Thorough"
+        },
+        {
+          "question": "What is the correct usage of 'your' and 'you're'?",
+          "options": [
+            "A. 'Your' is a contraction of 'you are', and 'you're' is a possessive pronoun",
+            "B. 'Your' and 'you're' can be used interchangeably",
+            "C. 'Your' is a possessive pronoun, and 'you're' is a contraction of 'you are'",
+            "D. 'Your' is used for singular possession, and 'you're' is used for plural possession"
+          ],
+          "answer": "C. 'Your' is a possessive pronoun, and 'you're' is a contraction of 'you are'"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'She _____ her homework yesterday'?",
+          "options": [
+            "A. Finish",
+            "B. Finished",
+            "C. Finishs",
+            "D. Finishen"
+          ],
+          "answer": "B. Finished"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "A. We was going to the store",
+            "B. We are going to the store",
+            "C. We am going to the store",
+            "D. We were going to the store"
+          ],
+          "answer": "B. We are going to the store"
+        },
+        {
+          "question": "What is the correct usage of 'accept' and 'except'?",
+          "options": [
+            "A. 'Accept' is used to exclude something, and 'except' indicates agreement",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' indicates agreement, and 'except' is used to exclude something",
+            "D. 'Accept' is only used for people, and 'except' is used for things"
+          ],
+          "answer": "C. 'Accept' indicates agreement, and 'except' is used to exclude something"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'They _____ for the bus for an hour'?",
+          "options": [
+            "A. Waiting",
+            "B. Wait",
+            "C. Waits",
+            "D. Waited"
+          ],
+          "answer": "D. Waited"
+        },
+        {
+          "question": "Which word is an antonym for 'benevolent'?",
+          "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+          ],
+          "answer": "A. Malevolent"
+        },
+        {
+          "question": "What is the correct usage of 'its' and 'it's'?",
+          "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' and 'it's' can be used interchangeably",
+            "C. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "D. 'Its' is only used for animate objects, and 'it's' is used for inanimate objects"
+          ],
+          "answer": "C. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+          "options": [
+            "A. Eat",
+            "B. Eating",
+            "C. Eaten",
+            "D. Ate"
+          ],
+          "answer": "D. Ate"
+        },
+        {
+          "question": "Which word is a synonym for 'ephemeral'?",
+          "options": [
+            "A. Eternal",
+            "B. Transient",
+            "C. Permanent",
+            "D. Lasting"
+          ],
+          "answer": "B. Transient"
+        },
+        {
+          "question": "How do you use 'less' and 'fewer' correctly?",
+          "options": [
+            "A. 'Less' is used with countable nouns, and 'fewer' is used with uncountable nouns",
+            "B. 'Less' and 'fewer' can be used interchangeably",
+            "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns",
+            "D. 'Less' is used for singular nouns, and 'fewer' is used for plural nouns"
+          ],
+          "answer": "C. 'Less' is used with uncountable nouns, and 'fewer' is used with countable nouns"
+        },
+        {
+          "question": "What is the correct usage of 'farther' and 'further'?",
+          "options": [
+            "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance",
+            "B. 'Farther' and 'further' can be used interchangeably",
+            "C. 'Farther' refers to metaphorical distance, and 'further' refers to physical distance",
+            "D. 'Farther' is used for vertical distance, and 'further' is used for horizontal distance"
+          ],
+          "answer": "A. 'Farther' refers to physical distance, and 'further' refers to metaphorical distance"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'He _____ his lunch in the cafeteria'?",
+          "options": [
+            "A. Eat",
+            "B. Eating",
+            "C. Eaten",
+            "D. Ate"
+          ],
+          "answer": "D. Ate"
+        },
+        {
+          "question": "Which word is an antonym for 'benevolent'?",
+          "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+          ],
+          "answer": "A. Malevolent"
+        },
+        {
+          "question": "What is the correct usage of 'it's' and 'its'?",
+          "options": [
+            "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'",
+            "B. 'It's' and 'its' can be used interchangeably",
+            "C. 'It's' is a contraction of 'it is', and 'its' is a possessive pronoun",
+            "D. 'It's' is only used for animate objects, and 'its' is used for inanimate objects"
+          ],
+          "answer": "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'"
+        },
+        {
+          "question": "What is the meaning of the word 'loquacious'?",
+          "options": [
+            "A. Shy",
+            "B. Reserved",
+            "C. Talkative",
+            "D. Silent"
+          ],
+          "answer": "C. Talkative"
+        },
+        {
+          "question": "Which word is a synonym for 'ubiquitous'?",
+          "options": [
+            "A. Scarce",
+            "B. Rare",
+            "C. Pervasive",
+            "D. Uncommon"
+          ],
+          "answer": "C. Pervasive"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'The team _____ their opponents in the final'?",
+          "options": [
+            "A. Beat",
+            "B. Beated",
+            "C. Beaten",
+            "D. Beating"
+          ],
+          "answer": "C. Beaten"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "A. Me and my friends are going to the park",
+            "B. My friends and me are going to the park",
+            "C. My friends and I are going to the park",
+            "D. I and my friends are going to the park"
+          ],
+          "answer": "C. My friends and I are going to the park"
+        },
+        {
+          "question": "What is the correct usage of 'effect' and 'affect'?",
+          "options": [
+            "A. 'Effect' is a noun, and 'affect' is a verb",
+            "B. 'Effect' is a verb, and 'affect' is a noun",
+            "C. 'Effect' and 'affect' can be used interchangeably",
+            "D. Both are always verbs"
+          ],
+          "answer": "A. 'Effect' is a noun, and 'affect' is a verb"
+        },
+        {
+          "question": "What is the plural form of 'person'?",
+          "options": [
+            "A. Persons",
+            "B. Peoples",
+            "C. People",
+            "D. Persones"
+          ],
+          "answer": "C. People"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'She _____ her homework yesterday'?",
+          "options": [
+            "A. Finish",
+            "B. Finished",
+            "C. Finishs",
+            "D. Finishen"
+          ],
+          "answer": "B. Finished"
+        },
+        {
+          "question": "Which word is a synonym for 'meticulous'?",
+          "options": [
+            "A. Careless",
+            "B. Thorough",
+            "C. Sloppy",
+            "D. Negligent"
+          ],
+          "answer": "B. Thorough"
+        },
+        {
+          "question": "What is the correct usage of 'accept' and 'except'?",
+          "options": [
+            "A. 'Accept' is used to exclude something, and 'except' indicates agreement",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' indicates agreement, and 'except' is used to exclude something",
+            "D. 'Accept' is only used for people, and 'except' is used for things"
+          ],
+          "answer": "C. 'Accept' indicates agreement, and 'except' is used to exclude something"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'They _____ for the bus for an hour'?",
+          "options": [
+            "A. Waiting",
+            "B. Wait",
+            "C. Waits",
+            "D. Waited"
+          ],
+          "answer": "D. Waited"
+        },
+        {
+          "question": "Which word is an antonym for 'benevolent'?",
+          "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+          ],
+          "answer": "A. Malevolent"
+        },
+        {
+          "question": "What is the correct usage of 'its' and 'it's'?",
+          "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' and 'it's' can be used interchangeably",
+            "C. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "D. 'Its' is only used for animate objects, and 'it's' is used for inanimate objects"
+          ],
+          "answer": "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'"
+        },
+        {
+          "question": "What is the meaning of the word 'loquacious'?",
+          "options": [
+            "A. Shy",
+            "B. Reserved",
+            "C. Talkative",
+            "D. Silent"
+          ],
+          "answer": "C. Talkative"
+        },
+        {
+          "question": "Which word is a synonym for 'ubiquitous'?",
+          "options": [
+            "A. Scarce",
+            "B. Rare",
+            "C. Pervasive",
+            "D. Uncommon"
+          ],
+          "answer": "C. Pervasive"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'The team _____ their opponents in the final'?",
+          "options": [
+            "A. Beat",
+            "B. Beated",
+            "C. Beaten",
+            "D. Beating"
+          ],
+          "answer": "C. Beaten"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "A. Me and my friends are going to the park",
+            "B. My friends and me are going to the park",
+            "C. My friends and I are going to the park",
+            "D. I and my friends are going to the park"
+          ],
+          "answer": "C. My friends and I are going to the park"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'She _____ her homework yesterday'?",
+          "options": [
+            "A. Finish",
+            "B. Finished",
+            "C. Finishs",
+            "D. Finishen"
+          ],
+          "answer": "B. Finished"
+        },
+        {
+          "question": "Which word is a synonym for 'meticulous'?",
+          "options": [
+            "A. Careless",
+            "B. Thorough",
+            "C. Sloppy",
+            "D. Negligent"
+          ],
+          "answer": "B. Thorough"
+        },
+        {
+          "question": "What is the correct usage of 'accept' and 'except'?",
+          "options": [
+            "A. 'Accept' is used to exclude something, and 'except' indicates agreement",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' indicates agreement, and 'except' is used to exclude something",
+            "D. 'Accept' is only used for people, and 'except' is used for things"
+          ],
+          "answer": "C. 'Accept' indicates agreement, and 'except' is used to exclude something"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'They _____ for the bus for an hour'?",
+          "options": [
+            "A. Waiting",
+            "B. Wait",
+            "C. Waits",
+            "D. Waited"
+          ],
+          "answer": "D. Waited"
+        },
+        {
+          "question": "Which word is an antonym for 'benevolent'?",
+          "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+          ],
+          "answer": "A. Malevolent"
+        },
+        {
+          "question": "What is the correct usage of 'its' and 'it's'?",
+          "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' and 'it's' can be used interchangeably",
+            "C. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "D. 'Its' is only used for animate objects, and 'it's' is used for inanimate objects"
+          ],
+          "answer": "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'"
+        },
+        {
+          "question": "What is the meaning of the word 'loquacious'?",
+          "options": [
+            "A. Shy",
+            "B. Reserved",
+            "C. Talkative",
+            "D. Silent"
+          ],
+          "answer": "C. Talkative"
+        },
+        {
+          "question": "Which word is a synonym for 'ubiquitous'?",
+          "options": [
+            "A. Scarce",
+            "B. Rare",
+            "C. Pervasive",
+            "D. Uncommon"
+          ],
+          "answer": "C. Pervasive"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'The team _____ their opponents in the final'?",
+          "options": [
+            "A. Beat",
+            "B. Beated",
+            "C. Beaten",
+            "D. Beating"
+          ],
+          "answer": "C. Beaten"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "A. Me and my friends are going to the park",
+            "B. My friends and me are going to the park",
+            "C. My friends and I are going to the park",
+            "D. I and my friends are going to the park"
+          ],
+          "answer": "C. My friends and I are going to the park"
+        },
+        {
+          "question": "What is the correct usage of 'effect' and 'affect'?",
+          "options": [
+            "A. 'Effect' is a noun, and 'affect' is a verb",
+            "B. 'Effect' is a verb, and 'affect' is a noun",
+            "C. 'Effect' and 'affect' can be used interchangeably",
+            "D. Both are always verbs"
+          ],
+          "answer": "A. 'Effect' is a noun, and 'affect' is a verb"
+        },
+        {
+          "question": "What is the plural form of 'person'?",
+          "options": [
+            "A. Persons",
+            "B. Peoples",
+            "C. People",
+            "D. Persones"
+          ],
+          "answer": "C. People"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'She _____ her homework yesterday'?",
+          "options": [
+            "A. Finish",
+            "B. Finished",
+            "C. Finishs",
+            "D. Finishen"
+          ],
+          "answer": "B. Finished"
+        },
+        {
+          "question": "Which word is a synonym for 'meticulous'?",
+          "options": [
+            "A. Careless",
+            "B. Thorough",
+            "C. Sloppy",
+            "D. Negligent"
+          ],
+          "answer": "B. Thorough"
+        },
+        {
+          "question": "What is the correct usage of 'accept' and 'except'?",
+          "options": [
+            "A. 'Accept' is used to exclude something, and 'except' indicates agreement",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' indicates agreement, and 'except' is used to exclude something",
+            "D. 'Accept' is only used for people, and 'except' is used for things"
+          ],
+          "answer": "C. 'Accept' indicates agreement, and 'except' is used to exclude something"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'They _____ for the bus for an hour'?",
+          "options": [
+            "A. Waiting",
+            "B. Wait",
+            "C. Waits",
+            "D. Waited"
+          ],
+          "answer": "D. Waited"
+        },
+        {
+          "question": "Which word is an antonym for 'benevolent'?",
+          "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+          ],
+          "answer": "A. Malevolent"
+        },
+        {
+          "question": "What is the correct usage of 'its' and 'it's'?",
+          "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' and 'it's' can be used interchangeably",
+            "C. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "D. 'Its' is only used for animate objects, and 'it's' is used for inanimate objects"
+          ],
+          "answer": "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'"
+        },
+        {
+          "question": "What is the meaning of the word 'loquacious'?",
+          "options": [
+            "A. Shy",
+            "B. Reserved",
+            "C. Talkative",
+            "D. Silent"
+          ],
+          "answer": "C. Talkative"
+        },
+        {
+          "question": "Which word is a synonym for 'ubiquitous'?",
+          "options": [
+            "A. Scarce",
+            "B. Rare",
+            "C. Pervasive",
+            "D. Uncommon"
+          ],
+          "answer": "C. Pervasive"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'The team _____ their opponents in the final'?",
+          "options": [
+            "A. Beat",
+            "B. Beated",
+            "C. Beaten",
+            "D. Beating"
+          ],
+          "answer": "C. Beaten"
+        },
+        {
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "A. Me and my friends are going to the park",
+            "B. My friends and me are going to the park",
+            "C. My friends and I are going to the park",
+            "D. I and my friends are going to the park"
+          ],
+          "answer": "C. My friends and I are going to the park"
+        },
+        {
+          "question": "What is the correct usage of 'effect' and 'affect'?",
+          "options": [
+            "A. 'Effect' is a noun, and 'affect' is a verb",
+            "B. 'Effect' is a verb, and 'affect' is a noun",
+            "C. 'Effect' and 'affect' can be used interchangeably",
+            "D. Both are always verbs"
+          ],
+          "answer": "A. 'Effect' is a noun, and 'affect' is a verb"
+        },
+        {
+          "question": "What is the plural form of 'person'?",
+          "options": [
+            "A. Persons",
+            "B. Peoples",
+            "C. People",
+            "D. Persones"
+          ],
+          "answer": "C. People"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'She _____ her homework yesterday'?",
+          "options": [
+            "A. Finish",
+            "B. Finished",
+            "C. Finishs",
+            "D. Finishen"
+          ],
+          "answer": "B. Finished"
+        },
+        {
+          "question": "Which word is a synonym for 'meticulous'?",
+          "options": [
+            "A. Careless",
+            "B. Thorough",
+            "C. Sloppy",
+            "D. Negligent"
+          ],
+          "answer": "B. Thorough"
+        },
+        {
+          "question": "What is the correct usage of 'accept' and 'except'?",
+          "options": [
+            "A. 'Accept' is used to exclude something, and 'except' indicates agreement",
+            "B. 'Accept' and 'except' can be used interchangeably",
+            "C. 'Accept' indicates agreement, and 'except' is used to exclude something",
+            "D. 'Accept' is only used for people, and 'except' is used for things"
+          ],
+          "answer": "C. 'Accept' indicates agreement, and 'except' is used to exclude something"
+        },
+        {
+          "question": "What is the correct form of the verb in this sentence: 'They _____ for the bus for an hour'?",
+          "options": [
+            "A. Waiting",
+            "B. Wait",
+            "C. Waits",
+            "D. Waited"
+          ],
+          "answer": "D. Waited"
+        },
+        {
+          "question": "Which word is an antonym for 'benevolent'?",
+          "options": [
+            "A. Malevolent",
+            "B. Compassionate",
+            "C. Altruistic",
+            "D. Kindhearted"
+          ],
+          "answer": "A. Malevolent"
+        },
+        {
+          "question": "What is the correct usage of 'its' and 'it's'?",
+          "options": [
+            "A. 'Its' is a contraction of 'it is', and 'it's' is a possessive pronoun",
+            "B. 'Its' and 'it's' can be used interchangeably",
+            "C. 'Its' is a possessive pronoun, and 'it's' is a contraction of 'it is'",
+            "D. 'Its' is only used for animate objects, and 'it's' is used for inanimate objects"
+          ],
+          "answer": "A. 'It's' is a possessive pronoun, and 'its' is a contraction of 'it is'"
+        },
+        {
+          "question": "What is the meaning of the word 'loquacious'?",
+          "options": [
+            "A. Shy",
+            "B. Reserved",
+            "C. Talkative",
+            "D. Silent"
+          ],
+          "answer": "C. Talkative"
+        },
+        {
+          "question": "Which word is a synonym for 'ubiquitous'?",
+          "options": [
+            "A. Scarce",
+            "B. Rare",
+            "C. Pervasive",
+            "D. Uncommon"
+          ],
+          "answer": "C. Pervasive"
+        }
+      ]
+      
