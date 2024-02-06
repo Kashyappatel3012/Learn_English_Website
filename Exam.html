@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn English</title>
+    <link rel="stylesheet" href="CSS_Files/Index.css">
+    <link rel="shortcut icon" href="Images/Fevicon.png" type="image/x-icon">
+    <!-- <script src="JS_Files/home.js"></script> -->
+    <link href='https://unpkg.com/css.gg@2.0.0/icons/css/menu.css' rel='stylesheet'>
+    <style>
+        #content {
+            padding-left: 20px;
+            margin-top: 90px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo animated-text">Learn English</div>
+            <div id="three_line"><i class="gg-menu"></i></div>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="Practise.html">Practise</a></li>
+                <li><a href="Exam.html" class="active">Exam</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="content">
+        <form id="examForm">
+            <!-- Questions will be displayed here -->
+        </form>
+
+        <button type="button" onclick="submitExam()" style="float: right; margin-top: 10px; margin-bottom: 20px; margin-right: 20px; padding: 8px;">Submit Exam</button>
+
+        <div id="result"></div>
+    </div>
+    <script>
+        // Fetch questions when the page loads
+        window.onload = fetchQuestions;
+    
+        async function fetchQuestions() {
+            try {
+                const response = await fetch('Json_Files/questions.json');
+                const questions = await response.json();
+                displayQuestions(questions);
+                return questions; // Return the array of questions
+            } catch (error) {
+                console.error('Error fetching questions:', error);
+                return []; // Return an empty array in case of an error
+            }
+        }
+
+        function displayQuestions(questions) {
+    const form = document.getElementById('examForm');
+
+
+    questions.forEach((question, index) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.innerHTML = `
+            <p>${index + 1}. ${question.question}</p>
+            <div>
+                ${question.options.map(option => `<input type="radio" name="q${index}" value="${option}"> ${option}<br>`).join('')}
+            </div>
+        `;
+        form.appendChild(questionDiv);
+    });
+}
+
+        async function submitExam() {
+            const questions = await fetchQuestions();
+            const form = document.getElementById('examForm');
+            let score = 0;
+
+            questions.forEach((question, index) => {
+                const selectedOption = form.querySelector(`input[name="q${index}"]:checked`);
+                if (selectedOption && selectedOption.value === question.answer) {
+                    score++;
+                }
+            });
+    // Clear existing content of the form
+    form.innerHTML = '';
+
+            const resultElement = document.getElementById('result');
+            resultElement.innerHTML = `<p>Your score: ${score} out of ${questions.length}</p>`;
+        }
+
+
+    </script>
+</body>
+
+</html>
