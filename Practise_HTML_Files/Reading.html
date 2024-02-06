@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn English</title>
+    <link rel="stylesheet" href="../CSS_Files/Index.css">
+    <link rel="shortcut icon" href="../Images/Fevicon.png" type="image/x-icon">
+    <script src="../JS_Files/home.js"></script>
+    <link href='https://unpkg.com/css.gg@2.0.0/icons/css/menu.css' rel='stylesheet'>
+    <style>
+        #result {
+            margin-top: 20px;
+        }
+        .incorrect-answer {
+            color: red;
+        }
+        .correct-answer {
+            color: green;
+        }
+</style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo animated-text">Learn English</div>
+            <!-- <button id="toggleButton">Toggle Sidebar</button> -->      
+            <div id="three_line"><i class="gg-menu"></i></div>
+            <ul>
+                <li><a href="../home.html">Home</a></li>
+                <li><a href="../Practise.html" class="active">Practise</a></li>
+                <li><a href="../Exam.html">Exam</a></li>
+                <li><a href="../about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="sidebar" id="sidebar">
+        <ul>
+            <li>
+                <span class="main_topic" id="togglebasic">Basic</span>
+                <ul id="Basic" class="sub_topic"> <!-- Change id to "Basic" -->
+                    <li><a href="Alphabets.html">Alphabets</a></li>
+                    <li><a href="Vowel.html">Vowel</a></li>
+                    <li><a href="Consonants.html">Consonants</a></li>
+                </ul>
+            </li>
+            
+            <li>
+                <span class="main_topic" id="togglegrammer">Grammar</span> <!-- Change id to "togglegrammar" and text to "Grammar" -->
+                <ul id="Grammar" class="sub_topic"> <!-- Change id to "Grammar" -->
+                    <li><a href="Nouns.html">Nouns</a></li>
+                    <li><a href="Pronouns.html">Pronouns</a></li>
+                    <li><a href="Verbs.html">Verbs</a></li>
+                    <li><a href="Adjectives.html">Adjectives</a></li>
+                    <li><a href="Adverbs.html">Adverbs</a></li>
+                    <li><a href="Prepositions.html">Prepositions</a></li>
+                    <li><a href="Conjunctions.html">Conjunctions</a></li>
+                    <li><a href="Interjections.html">Interjections</a></li>
+                    <li><a href="Subject_and_Predicate.html">Subject and Predicate</a></li>
+                    <li><a href="Simple_sentences.html">Simple sentences</a></li>
+                    <li><a href="Compound_sentences.html">Compound sentences</a></li>
+                    <li><a href="Complex_sentences.html">Complex sentences</a></li>
+                    <li><a href="Present_Tense.html">Present Tense</a></li>
+                    <li><a href="Past_Tense.html">Past Tense</a></li>
+                    <li><a href="Future_Tense.html">Future Tense</a></li>
+                    <li><a href="Can_Could.html">Can & Could</a></li>
+                    <li><a href="Will_Would.html">Will & Would</a></li>
+                    <li><a href="Shall_Should.html">Shall & Should</a></li>
+                    <li><a href="May_Might.html">May & Might</a></li>
+                    <li><a href="Must.html">Must</a></li>
+                    <li><a href="Active_Voice.html">Active Voice</a></li>
+                    <li><a href="Passive_Voice.html">Passive Voice</a></li>
+                    <li><a href="Actibe_Passive.html">Active to Passive Voice</a></li>
+                    <li><a href="Indicative.html">Indicative</a></li>
+                    <li><a href="Imperative.html">Imperative</a></li>
+                    <li><a href="Subjunctive.html">Subjunctive</a></li>
+                    <li><a href="Zero_Conditional.html">Zero Conditional</a></li>
+                    <li><a href="First_Conditional.html">First Conditional</a></li>
+                    <li><a href="Second_Conditional.html">Second Conditional</a></li>
+                    <li><a href="Third_Conditional.html">Third Conditional</a></li>
+                    <li><a href="Direct_Speech.html">Direct Speech</a></li>
+                    <li><a href="Indirect_Speech.html">Indirect Speech</a></li>
+                    <li><a href="Direct_Indirect.html">Direct to Indirect</a></li>
+                    <li><a href="Independent_Clauses.html">Independent Clauses</a></li>
+                    <li><a href="Dependent_Clauses.html">Dependent Clauses</a></li>
+                    <li><a href="Relative_Clauses.html">Relative Clauses</a></li>
+                    <li><a href="Noun_Phrases.html">Noun Phrases</a></li>
+                    <li><a href="Verb_Phrases.html">Verb Phrases</a></li>
+                    <li><a href="Adjective_Phrases.html">Adjective Phrases</a></li>
+                    <li><a href="Adverb_Phrases.html">Adverb Phrases</a></li>
+                    <li><a href="Prepositional_Phrases.html">Prepositional Phrases</a></li>
+                    <li><a href="Subject_verb_Agreement.html">Subject-verb Agreement</a></li>
+                    <li><a href="Pronoun_Antecedent_Agreement.html">Pronoun-Antecedent Agreement</a></li>
+                    <li><a href="Negation.html">Negation</a></li>
+                    <li><a href="Gerunda_and_Indinitives.html">Gerunda and Indinitives</a></li>
+                    <li><a href="Articles.html">Articles</a></li>
+                    <li><a href="Determiners.html">Determiners</a></li>
+                    <li><a href="Conjunctions_and_Connectors.html">Conjunctions and Connectors</a></li>
+                    <li><a href="Parallelism.html">Parallelism</a></li>
+                    <li><a href="Punctuation.html">Punctuation</a></li>
+                    <li><a href="Capitallization.html">Capitallization</a></li>
+                    <li><a href="Word_Order.html">Word Order</a></li>
+                </ul>
+            </li>
+            
+            <li>
+                <span class="main_topic" id="togglevocabulary">Vocabulary</span> <!-- Change id to "togglegrammar" and text to "Grammar" -->
+                <ul id="Vocabulary" class="sub_topic"> <!-- Change id to "Grammar" -->
+                    <li><a href="Receptive_Vocabulary.html">Receptive Vocabulary</a></li>
+                    <li><a href="Expressive_Vocabulary.html">Expressive Vocabulary</a></li>
+                    <li><a href="General_Vocabulary.html">General Vocabulary</a></li>
+                    <li><a href="Academic_Vocabulary.html">Academic Vocabulary</a></li>
+                    <li><a href="Technical_Vocabulary.html">Technical Vocabulary</a></li>
+                    <li><a href="Specialized_Vocabulary.html">Specialized Vocabulary</a></li>
+                    <li><a href="Passive_Vocabulary.html">Passive Vocabulary</a></li>
+                    <li><a href="Active_Vocabulary.html">Active Vocabulary</a></li>
+                    <li><a href="Formal_Vocabulary.html">Formal Vocabulary</a></li>
+                    <li><a href="Informal_Vocabulary.html">Informal Vocabulary</a></li>
+                </ul>
+            </li>
+
+            <li>
+                <span class="main_topic" id="togglePronunciation">Pronunciation Practise</span> <!-- Change id to "togglegrammar" and text to "Grammar" -->
+                <ul id="Pronunciation" class="sub_topic"> <!-- Change id to "Grammar" -->
+                    <li><a href="Phonetic_Sounds.html">Phonetic Sounds</a></li>
+                    <li><a href="Word_structure.html">Word structure</a></li>
+                    <li><a href="Speech_Patterns.html">Speech Patterns</a></li>
+                    <li><a href="Intonation_and_Rhythm.html">Intonation & Rhythm</a></li>
+                    <li><a href="General_Practice.html">General Practice</a></li>
+                </ul>
+            </li>
+            <li><a href="Reading.html" class="main_topic">Reading</a></li>
+            <li><a href="Listening.html" class="main_topic">Listening</a></li>
+            <li><a href="Writing.html" class="main_topic">Writing</a></li>
+            <li><a href="Speaking.html" class="main_topic">Speaking</a></li>          
+        </ul>
+    </div>
+<main>
+    <section>
+        <h1>Reading</h1>
+        <p>
+            During the 1950s, the Indian fashion scene was exciting, stylish and very graceful. There were no celebrity designers or
+models, nor were there any labels that were widely recognised. The value of a garment was judged by its style and fabric
+rather than by who made it. It was regarded as perfectly acceptable, even for high-society women, to approach an unknown
+tailor who could make a garment for a few rupees, providing the perfect fit, finish and style. They were proud of getting a
+bargain, and of giving their own name to the end result.</p><p>
+The 1960s was an era full of mischievousness and celebration in the arts, music and cinema. The period was characterised
+by freedom from restrictions and, in the fashion world, an acceptance of innovative types of material such as plastic and
+coated polyester. Tight-fitting kurtas[1] and churidars[2] and high coiffures were a trend among women.</p><p>
+The following decade witnessed an increase in the export of traditional materials, and the arrival in India of international
+fashion. Synthetics became trendy, and the disco culture affected the fashion scene.</p><p>
+It was in the early 80s when the first fashion store ‘Ravissant’ opened in Mumbai. At that time garments were retailed for a
+four-figure price tag. American designers like Calvin Klein became popular. In India too, contours became more masculine,
+and even the salwar kameez[3] was designed with shoulder pads.</p><p>
+With the evolution of designer stores came the culture of designer fashion, along with its hefty price tags. Whatever a
+garment was like, consumers were convinced that a higher price tag signified elegant designer fashion, so garments were
+sold at unbelievable prices. Meanwhile, designers decided to get themselves noticed by making showy outfits and
+associating with the right celebrities. Soon, fashion shows became competitive, each designer attempting to out-do the
+other in theme, guest list and media coverage.</p><p>
+In the last decade of the millennium, the market shrank and ethnic wear made a comeback. During the recession, there was
+a push to sell at any cost. With fierce competition the inevitable occurred: the once hefty price tags began their downward
+journey, and the fashion-show industry followed suit. However, the liveliness of the Indian fashion scene had not ended - it
+had merely reached a stable level.</p><p>
+At the beginning of the 21st century, with new designers and models, and more sensible designs, the fashion industry
+accelerated once again. As far as the global fashion industry is concerned, Indian ethnic designs and materials are currently
+in demand from fashion houses and garment manufacturers. India is the third largest producer of cotton, the second largest
+producer of silk, and the fifth largest producer of man-made fibres in the world.</p><p>
+The Indian garment and fabric industries have many fundamental advantages, in terms of a cheaper, skilled work force,
+cost-effective production, raw materials, flexibility, and a wide range of designs with sequins, beadwork, and embroidery. In
+addition, that India provides garments to international fashion houses at competitive prices, with a shorter lead time, and an
+effective monopoly on certain designs, is accepted the whole world over. India has always been regarded as the default
+source in the embroidered garments segment, but changes in the rate of exchange between the rupee and the dollar has
+further depressed prices, thereby attracting more buyers. So the international fashion houses walk away with customised
+goods, and craftwork is sold at very low rates</p><p>
+As far as the fabric market is concerned, the range available in India can attract as well as confuse the buyer. Much of the
+production takes place in the small town of Chapa in the eastern state of Bihar, a name one might never have heard of.
+Here fabric-making is a family industry; the range and quality of raw silks churned out here belie the crude production
+methods and equipment. Surat in Gujarat, is the supplier of an amazing set of jacquards, moss crepes and georgette sheers
+- all fabrics in high demand. Another Indian fabric design that has been adopted by the fashion industry is the ‘Madras
+check’, originally utilised for the universal lungi, a simple lower-body wrap worn in southern India. This design has now
+found its way on to bandannas, blouses, home furnishings and almost anything one can think of.</p><p>
+Ethnic Indian designs with batik and hand-embroidered motifs have also become popular across the world. Decorative bead
+work is another product in demand in the international market. Beads are used to prepare accessory items like belts and
+bags, and beadwork is now available for haute couture evening wear too. [1] knee-length tunics [2] trousers [3] trouser suit       
+</p>
+
+<br>
+<br>
+<div>No well-known designers, models or <input type="text" id="ans0"> Elegant clothing cost little
+Women were pleased to get clothes for a <input type="text" id="ans1">price 1960s New materials, e.g. <input type="text" id="ans2">
+and polyester Fitted clothing and tall hairstyles 1970s Overseas sales of <input type="text" id="ans3">fabrics rose
+Influence of international fashion 1980s Opening of fashion store in Mumbai Popularity of American designers Clothing had a <input type="text" id="ans4">shape Designers tried to attract attention by presenting <input type="text" id="ans5"> clothes and mixing with stars 1990s Fall in demand for expensive fashion wear Return to<input type="text" id="ans6">clothing.
+</div>
+</section>
+
+<div id="result"></div>
+
+<script>
+    function checkAnswers() {
+        const correctAnswers = ["labels", "bargain", "plastic", "traditional", "showy", "masculine", "ethnic"];
+        let userAnswers = [];
+
+        for (let i = 0; i < correctAnswers.length; i++) {
+            const userInput = document.getElementById(`ans${i}`).value.trim().toLowerCase();
+            userAnswers.push(userInput);
+        }
+
+        const resultElement = document.getElementById('result');
+        let isCorrect = true;
+
+        for (let i = 0; i < correctAnswers.length; i++) {
+            if (userAnswers[i] !== correctAnswers[i]) {
+                isCorrect = false;
+                document.getElementById(`ans${i}`).classList.add('incorrect-answer');
+            } else {
+                document.getElementById(`ans${i}`).classList.add('correct-answer');
+            }
+        }
+
+        if (isCorrect) {
+            resultElement.innerHTML = '<p style="color: green;">All answers are correct!</p>';
+        } else {
+            resultElement.innerHTML = '<p style="color: red;">Some answers are incorrect. Please review and try again.</p>';
+        }
+    }
+</script>
+
+<button onclick="checkAnswers()">Check Answers</button>
+<br>
+<h3> "I have attached additional question papers along with their answers for you to practice your reading skills.</h3>
+<div style="line-height: 22px;">
+<a href="../PDF_Files/Reading/1.pdf" download>Practise Paper 1</a><br>
+<a href="../PDF_Files/Reading/2.pdf" download>Practise Paper 2</a><br>
+<a href="../PDF_Files/Reading/3.pdf" download>Practise Paper 3</a><br>
+<a href="../PDF_Files/Reading/4.pdf" download>Practise Paper 4</a><br>
+<a href="../PDF_Files/Reading/5.pdf" download>Practise Paper 5</a><br>
+<a href="../PDF_Files/Reading/6.pdf" download>Practise Paper 6</a><br>
+<a href="../PDF_Files/Reading/7.pdf" download>Practise Paper 7</a><br>
+<a href="../PDF_Files/Reading/8.pdf" download>Practise Paper 8</a><br>
+<a href="../PDF_Files/Reading/9.pdf" download>Practise Paper 9</a><br>
+<a href="../PDF_Files/Reading/10.pdf" download>Practise Paper 10</a><br>
+<a href="../PDF_Files/Reading/11.pdf" download>Practise Paper 11</a><br>
+<a href="../PDF_Files/Reading/12.pdf" download>Practise Paper 12</a><br>
+<a href="../PDF_Files/Reading/13.pdf" download>Practise Paper 13</a><br>
+<a href="../PDF_Files/Reading/14.pdf" download>Practise Paper 14</a><br>
+<a href="../PDF_Files/Reading/15.pdf" download>Practise Paper 15</a><br>
+<a href="../PDF_Files/Reading/16.pdf" download>Practise Paper 16</a><br>
+<a href="../PDF_Files/Reading/17.pdf" download>Practise Paper 17</a><br>
+<a href="../PDF_Files/Reading/18.pdf" download>Practise Paper 18</a><br>
+<a href="../PDF_Files/Reading/19.pdf" download>Practise Paper 19</a><br>
+<a href="../PDF_Files/Reading/20.pdf" download>Practise Paper 20</a><br>
+</div>
+<br>
+<a href="Listening.html"><button id="Next">Next&nbsp;&#8649;</button></a>
+<a href="General_Practice.html"><button id="Previous">&#8647;&nbsp; Previous</button></a>
+<a href="../HTML_Files/Reading.html"><button id="Practice">&#9728;&nbsp;Learn&nbsp;&#9728;</button></a>
+
+</main>
+
+
+</body>
+</html>
+
